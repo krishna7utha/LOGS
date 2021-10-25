@@ -1,6 +1,1 @@
-Epoch-1 results : Avg_Loss = 0.21408000588417053, fitness = 6.729247925880994e-05
-Epoch-2 results : Avg_Loss = 0.17111000418663025, fitness = 0.0004979619511536615
-Epoch-3 results : Avg_Loss = 0.15485000610351562, fitness = 0.0017538476866738972
-Epoch-1 results : Avg_Loss = 0.2116200029850006, fitness = 0.0003447668149794349
-Epoch-2 results : Avg_Loss = 0.14620999991893768, fitness = 0.004965433862699506
-Epoch-3 results : Avg_Loss = 0.12729999423027039, fitness = 0.018144602887701818
+Epoch-1 results : Avg_Loss = 0.2059199959039688, fitness = 0.0008467439168580912, best_fitness = [ 0.00084674]
