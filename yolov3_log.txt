@@ -1,2 +1,3 @@
 Epoch-1 results : Avg_Loss = 0.2059199959039688, fitness = 0.0008467439168580912, best_fitness = [ 0.00084674]
 Epoch-2 results : Avg_Loss = 0.14281000196933746, fitness = 0.027133852822587765, best_fitness = [   0.027134]
+Epoch-3 results : Avg_Loss = 0.12918999791145325, fitness = 0.06335566876456145, best_fitness = [   0.063356]
